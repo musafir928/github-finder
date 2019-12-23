@@ -5,7 +5,7 @@
  Used techs:
  <ol>
 <li>React Fundamentals (Components, props, state, etc).</li>
-  <li>React Hooks (useState, useEffect, useContext, useReducer, useRef).</li>
+  <li>React Hooks (useState, useEffect, useContext, useReducer).</li>
   <li>Context API & App Level State.</li>
 </ol>
 
